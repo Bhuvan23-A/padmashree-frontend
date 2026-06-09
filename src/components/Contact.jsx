@@ -15,7 +15,7 @@ function Contact() {
             </h3>
 
             <div className="space-y-4 text-gray-700">
-              <p>📧 info@padmashreeinfotech.com</p>
+              <p>📧 padmashreetech.info@gmail.com</p>
               <p>📞 +91 XXXXX XXXXX</p>
               <p>📍 Hyderabad, Telangana, India</p>
             </div>

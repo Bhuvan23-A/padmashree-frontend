@@ -13,7 +13,7 @@ function Hero() {
         <p className="mt-8 text-xl max-w-3xl mx-auto">
           PadmaShree Infotech Solutions has been delivering
           high-quality data entry, survey collection and
-          information management services since 2016.
+          information management services since 2025.
         </p>
 
         <button className="mt-10 bg-cyan-400 text-black px-8 py-4 rounded-xl font-bold">

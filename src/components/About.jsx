@@ -8,7 +8,7 @@ function About() {
         </h2>
 
         <p className="text-lg text-gray-700 leading-9 text-center max-w-4xl mx-auto">
-          Founded in 2016, PadmaShree Infotech Solutions specializes in
+          Founded in 2025, PadmaShree Infotech Solutions specializes in
           data entry, survey data collection, data processing, and
           information management services. We combine technology,
           workforce expertise, and quality assurance processes to

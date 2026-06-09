@@ -1,8 +1,8 @@
 function Stats() {
   const stats = [
-    { value: "2016", label: "Founded" },
+    { value: "2025", label: "Founded" },
     { value: "5000+", label: "Employees" },
-    { value: "10+", label: "Years Experience" },
+    { value: "100+", label: "Projects Handled" },
     { value: "99%", label: "Quality Commitment" },
   ];
 
