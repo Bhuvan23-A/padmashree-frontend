@@ -13,7 +13,7 @@ function Footer() {
         </p>
 
         <p className="mt-6 text-sm text-gray-400">
-          © 2026 PadmaShree Infotech Solutions. All Rights Reserved.
+          © 2025 PadmaShree Infotech Solutions. All Rights Reserved.
         </p>
 
       </div>
